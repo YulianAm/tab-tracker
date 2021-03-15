@@ -1,4 +1,3 @@
 # tab-tracker
 vue.js guitar tab tracker
-//first commit 
-//my commiug
+//first commit 1
