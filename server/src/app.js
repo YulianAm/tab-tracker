@@ -11,7 +11,7 @@ app.use(cors())
 
 app.get('/register', (req, res) => {
  res.send({
-     message: `${req.body.email} your user was registered with password test ${req.body.password}`
+     message: `${req.body.email}ss your user was registered with password test ${req.body.password}`
  })
 })
 
